@@ -117,4 +117,4 @@ ENV/
 .ci-cd
 
 node_modules/
-.
+poetry.lock
